@@ -1,0 +1,31 @@
+facility_id,facility_name,building,campus,capacity,facility_type,availability,booking_contact,maintenance_status,last_service_date,accessibility,equipment,operating_hours
+FAC-001,Main Lecture Hall A,Leslie Social Science,Main Campus,300,Lecture Hall,Available,bookings@uct.ac.za,Good,2022-01-15,Yes,"Projector, Audio System",07:30-21:00
+FAC-002,Computer Lab 1,Computer Science,Main Campus,50,Computer Lab,Limited,itbookings@uct.ac.za,Excellent,15/01/2022,Yes,40 PCs; 10 Macs,08:00-22:00
+FAC-003,Science Laboratory 2B,Chemistry,Main Campus,30,Laboratory,Available,science.bookings@uct.ac.za,Fair,10-01-2022,Yes,"Fume Hoods, Microscopes",08:30-17:00
+FAC-004,Jameson Hall,Upper Campus,Main Campus,1200,Auditorium,Unavailable,events@uct.ac.za,Under Renovation,2021/10/20,Partial,"Stage, Sound System, Lighting",07:00-23:00
+FAC-005,Tutorial Room 3C,Humanities,Main Campus,25,Tutorial Room,Available,hum.bookings@uct.ac.za,Good,2022/01/05,Yes,"Whiteboard, Projector",07:30-18:00
+FAC-006,Law Library,Kramer,Main Campus,120,Library,Available,law.library@uct.ac.za,Excellent,05-Jan-22,Yes,"Reference Collection, Study Carrels",08:00-22:00
+FAC-007,Medical Simulation Lab,Health Sciences,Health Sciences,15,Specialized Lab,Available,health.bookings@uct.ac.za,Good,2022-01-10,Yes,Medical Simulators,08:30-16:30
+FAC-008,Engineering Workshop,Menzies,Main Campus,40,Workshop,Limited,eng.bookings@uct.ac.za,Fair,01/12/2021,Yes,"Power Tools, 3D Printers",08:00-17:00
+FAC-009,Sports Complex,Lower Campus,Main Campus,500,Sports Facility,Available,sports@uct.ac.za,Good,15-Dec-21,Yes,"Tennis Courts, Swimming Pool, Gym",06:00-21:00
+FAC-010,Art Studio,Hiddingh,Hiddingh,30,Studio,Available,arts.bookings@uct.ac.za,Good,2021/12/20,Yes,"Easels, Potter's Wheels",08:30-18:00
+FAC-011,Residence Hall A,Fuller,Main Campus,200,Residential,Limited,res@uct.ac.za,Good,2022-01-15,Yes,"Common Room, Kitchen",24 hours
+FAC-012,Cafeteria,Student Centre,Main Campus,150,Food Service,Available,,Excellent,10/01/2022,Yes,"Seating, Food Service Equipment",07:00-19:00
+FAC-013,Seminar Room 2D,Leslie Commerce,Main Campus,35,Seminar Room,Available,commerce.bookings@uct.ac.za,Fair,05-01-2022,No,Projector,07:30-21:00
+FAC-014,Astronomy Observatory,Upper Campus,Main Campus,20,Specialized Facility,Limited,astronomy@uct.ac.za,Good,2021-12-10,No,Telescopes,19:00-23:00
+FAC-015,Music Practice Room,South African College of Music,Main Campus,5,Practice Room,Available,music@uct.ac.za,Good,15/12/2021,Yes,Grand Piano,08:00-22:00
+FAC-016,Main Lecture Hall B,Leslie Social Science,Main Campus,250,Lecture Hall,Available,bookings@uct.ac.za,Excellent,2022-01-16,Yes,"Projector, Audio System, Recording Equipment",07:30-21:00
+FAC-017,Computer Lab 2,Computer Science,Main Campus,40,Computer Lab,Available,itbookings@uct.ac.za,Good,16/01/2022,Yes,40 PCs,08:00-22:00
+FAC-018,Physics Laboratory 1A,RW James,Main Campus,25,Laboratory,Limited,science.bookings@uct.ac.za,Good,11-01-2022,Yes,"Oscilloscopes, Electrical Testing Equipment",08:30-17:00
+FAC-019,Mathematics Tutorial Room,Mathematics Building,Main Campus,30,Tutorial Room,Available,maths.bookings@uct.ac.za,Good,2022/01/06,Yes,"Multiple Whiteboards, Projector",07:30-18:00
+FAC-020,Main Library,Upper Campus,Main Campus,500,Library,Available,library@uct.ac.za,Excellent,06-Jan-22,Yes,"Reference Collection, Study Spaces, Computer Access",08:00-24:00
+FAC-021,Psychology Lab,PD Hahn,Main Campus,20,Specialized Lab,Available,psych.bookings@uct.ac.za,Good,2022-01-12,Yes,"Testing Equipment, Observation Room",08:30-16:30
+FAC-022,Design Studio,Engineering,Main Campus,35,Studio,Limited,design.bookings@uct.ac.za,Good,02/12/2021,Yes,"Drafting Tables, CAD Workstations",08:00-20:00
+FAC-023,Indoor Sports Hall,Sports Centre,Main Campus,200,Sports Facility,Available,sports@uct.ac.za,Good,16-Dec-21,Yes,"Basketball Court, Volleyball Equipment",06:00-22:00
+FAC-024,Photography Studio,Hiddingh,Hiddingh,15,Studio,Available,arts.bookings@uct.ac.za,Good,2021/12/22,Yes,"Lighting Equipment, Backdrops",08:30-18:00
+FAC-025,Residence Hall B,Smuts,Main Campus,180,Residential,Available,res@uct.ac.za,Good,2022-01-17,Yes,"Common Room, Study Area",24 hours
+FAC-026,Economics Lecture Theatre,Leslie Commerce,Main Campus,150,Lecture Hall,Available,commerce.bookings@uct.ac.za,Good,18/01/2022,Yes,"Dual Projectors, Audio System",07:30-21:00
+FAC-027,Language Lab,Arts Building,Main Campus,30,Specialized Lab,Available,languages.bookings@uct.ac.za,Excellent,20-01-2022,Yes,"Audio Equipment, Recording Booths",08:00-18:00
+FAC-028,Moot Court,Kramer,Main Campus,80,Specialized Facility,Available,law.bookings@uct.ac.za,Excellent,2022/01/08,Yes,"Judge's Bench, Legal Reference Materials",08:00-20:00
+FAC-029,Botany Greenhouse,Biological Sciences,Main Campus,20,Specialized Facility,Limited,botany@uct.ac.za,Good,05-Jan-22,Partial,"Climate Control, Irrigation Systems",08:00-16:00
+FAC-030,Conference Room A,Administrative Building,Main Campus,25,Meeting Room,Available,admin.bookings@uct.ac.za,Excellent,2022/01/10,Yes,"Videoconferencing Equipment, Smart Board",08:00-18:00

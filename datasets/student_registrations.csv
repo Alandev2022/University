@@ -1,0 +1,50 @@
+student_id,first_name,surname,id_number,date_of_birth,gender,email,cellphone,registration_date,enrollment_status,nationality,province,program_code,study_year,campus
+STU-100123,Michael,Van Wyk,9012125082083,12/01/1990,M,mvanwyk90@student.uct.ac.za,+27 82 123 4567,02/14/2022,Active,SA,"Western Cape",BCom-FIN,3,Main Campus
+100124,Thando,Nkosi,9103156472081,15-MAR-1991,Male,t.nkosi@myuct.ac.za,0831234567,2022-02-14,active,South African,Western Cape,BCOM-FIN,3,Main
+STU100125,Lerato,Molefe,9207182345082,"07/18/1992",F,lmolefe@mail.uct.ac.za,27833456789,14/02/2022,ACTIVE,SA,Gauteng,LLB,2,Main Campus
+100126,Anele,Dlamini,,04/05/1993,F,adlamini93@student.uct.ac.za,+27 84 345 6789,15/02/2022,Active,South Africa,Eastern Cape,BSc-CS,2,Hiddingh
+STU-100127,James,Smith,9405235082081,23/05/1994,M,jsmith@student.uct.ac.za,+27 85 456 7890,2022/02/15,Active,SA,KwaZulu-Natal,BSc-ENG,1,Main Campus
+100128,Nomsa,"Ndlovu, ",9508270082083,27-08-1995,F,n.ndlovu@student.uct.co.za,0864567890,2022/02/15,Inactive,SA,Mpumalanga,BA-PSY,1,Main Campus
+STU-100123,Michael,van Wyk,9012125082083,12/01/1990,Male,mvanwyk90@gmail.com,+27821234567,14-Feb-22,Active,South African,Western Cape,BCOM-FIN,3,Main Campus
+100129,Sipho,Zulu,9609300082084,30/09/1996,M,szulu@uct.ac.za,+27 87 567 8901,16/02/2022,active,SA,Limpopo,BSc-PHYS,4,Main
+STU-100130,,Botha,9710315082085,31/10/1997,Male,,+27 88 678 9012,16-02-2022,Active,SA,Free State,BA-ENG,4,Main Campus
+100131,Fatima,Ismail,9811235082086,23/11/1998,F,fatima.i@student.uct.ac.za,+27 89 789 0123,17/02/2022,PENDING,ZA,North West,BSc-BIO,3,Health Sciences
+STU100132,David,van der Merwe,9912145082087,14-Dec-99,M,dvdmerwe@uct.ac.za,0896789012,17-02-2022,Active,South Africa,Northern Cape,BEd,3,Main Campus
+100133,Precious,Mabena,0001315082088,31/01/2000,F,pmabena@student.uct.ac.za,+27 90 890 1234,2022-02-17,Suspended,SA,Eastern Cape,Bcom-ACC,2,Main
+STU-100134,Thabiso,Khumalo,0102285082089,28/02/2001,M,tkhumalo01@student.uct.ac.za,+27 91 901 2345,18/02/2022,Active,ZA,Gauteng,LLB,2,Main Campus
+100135,Zanele,Mbeki,0203315082090,31-Mar-02,female,zmbeki@student.uct.ac.za,+27912345678,2022/02/18,Active,SA,Western Cape,BSc-Maths,1,Main Campus
+100136,Thembeka,Naidoo,0304125082091,12/04/2003,F,tnaidoo@student.uct.ac.za,+27 92 012 3456,19/02/2022,Active,South African,KwaZulu-Natal,BA-HIST,1,Main
+STU-100137,Mandla,Ncube,0405255082092,25/05/2004,M,mncube@student.uct.ac.za,+27 93 123 4567,2022-02-19,Active,SA,Mpumalanga,BCom-ECO,1,Main Campus
+100138,Ayanda,Mthembu,0506155082093,15-Jun-05,Female,a.mthembu@uct.ac.za,0941234567,20/02/2022,active,SA,Eastern Cape,BSc-MATH,1,Main
+STU100139,Joshua,Nkuta,0607058765094,05/07/2006,M,jnkuta@student.uct.ac.za,27951234567,20/02/2022,ACTIVE,ZA,Limpopo,BSc-CS,1,Main Campus
+100140,Nomvula,Sithole,,08/09/2003,F,nsithole@student.uct.ac.za,+27 96 234 5678,21/02/2022,Active,South Africa,Free State,BA-POL,1,Main
+STU-100141,Mohammed,Kareem,0110205082095,20/10/2001,M,mkareem@student.uct.ac.za,+27 97 345 6789,2022/02/21,Pending,SA,Western Cape,LLB,1,Main Campus
+100142,Natasha,Du Toit,0211305082096,30-11-2002,F,n.dutoit@myuct.ac.za,0983456789,2022/02/22,active,SA,Northern Cape,BFA,1,Hiddingh
+STU-100143,Samuel,Peterson,0112125082097,12/12/2001,Male,speterson@student.uct.ac.za,+27991234567,22-Feb-22,Active,South African,Western Cape,BSc-ENG,1,Main Campus
+100144,Zinhle,Mathebula,0301015082098,01/01/2003,F,zmathebula@uct.ac.za,+27 11 234 5678,23/02/2022,active,SA,Gauteng,MBChB,1,Health Sciences
+STU-100145,Blessing,Moyo,0402028765099,02/02/2004,Female,,+27 12 345 6789,23-02-2022,Active,Zimbabwe,International,BCom-ACC,1,Main Campus
+100146,John,Williams,0503035082100,03/03/2005,M,jwilliams@student.uct.ac.za,+27 13 456 7890,24/02/2022,PENDING,ZA,Western Cape,BSc-PHYS,1,Main
+STU100147,Ntombi,Kgosi,0604045082101,04-Apr-06,F,nkgosi@mail.uct.ac.za,0144567890,24-02-2022,Active,South Africa,North West,BA-LANG,1,Main Campus
+100148,Tshepo,Mofokeng,0705055082102,05/05/2007,M,tmofokeng@student.uct.ac.za,+27 15 567 8901,2022-02-25,Suspended,SA,Free State,BSc-CHEM,1,Main
+STU-100149,Lauren,Smith,0806065082103,06/06/2008,F,lsmith@student.uct.ac.za,+27 16 678 9012,25/02/2022,Active,SA,Western Cape,BCom-MAN,1,Main Campus
+100150,Mpho,Lesedi,9007075082104,07-Jul-90,male,m.lesedi@uct.ac.za,0176789012,2022/02/26,Active,South Africa,Limpopo,BSc-AGR,4,Main
+STU-100151,Abdul,Rahman,9108085082105,08/08/1991,M,arahman@student.uct.ac.za,+27 18 789 0123,26/02/2022,Active,SA,Western Cape,BCom-FIN,4,Main Campus
+100152,Nonhlanhla,Zuma,9209095082106,09/09/1992,F,nzuma@student.uct.ac.za,+27 19 890 1234,27/02/2022,active,SA,KwaZulu-Natal,BA-LING,3,Main
+STU100153,Peter,Johnson,9310105082107,"10/10/1993",M,pjohnson@uct.ac.za,27198901235,27/02/2022,ACTIVE,South African,Eastern Cape,BSc-MAR,3,Main Campus
+100154,Gabriella,Pillay,,11/11/1994,F,gpillay@student.uct.ac.za,+27 20 901 2345,28/02/2022,Active,SA,Western Cape,LLB,3,Main
+STU-100155,Lwazi,Dlamini,9512125082108,12/12/1995,M,ldlamini@student.uct.ac.za,+27 21 012 3456,2022/02/28,Active,SA,Mpumalanga,BSc-IT,2,Main Campus
+100156,Candice,Meyer,9601015082109,01-Jan-96,F,c.meyer@myuct.ac.za,0220123456,2022/03/01,inactive,SA,Western Cape,BEd,2,Main
+STU-100157,Victor,Maluleke,9702025082110,02/02/1997,Male,vmaluleke@student.uct.ac.za,+27231234567,01-Mar-22,Active,South African,Limpopo,BA-HIST,2,Main Campus
+100158,Elizabeth,Van Rensburg,9803035082111,03/03/1998,F,evanrensburg@uct.ac.za,+27 24 234 5678,02/03/2022,active,SA,Free State,BSc-ECO,2,Main
+STU-100159,Bongani,Ndaba,9904045082112,04/04/1999,Male,,+27 25 345 6789,02-03-2022,Active,SA,North West,BCom-MKT,2,Main Campus
+100160,Ayesha,Ebrahim,0005055082113,05/05/2000,F,aebrahim@student.uct.ac.za,+27 26 456 7890,03/03/2022,PENDING,ZA,Western Cape,MBChB,1,Health Sciences
+STU100161,Neo,Mashaba,0106065082114,06-Jun-01,M,nmashaba@mail.uct.ac.za,0274567890,03-03-2022,Active,South Africa,Gauteng,BSc-CS,2,Main Campus
+100162,Caitlin,Thompson,0207075082115,07/07/2002,F,cthompson@student.uct.ac.za,+27 28 567 8901,2022-03-04,Suspended,SA,Western Cape,BA-FILM,1,Hiddingh
+STU-100163,Sizwe,Mkhize,0308085082116,08/08/2003,M,smkhize@student.uct.ac.za,+27 29 678 9012,04/03/2022,Active,SA,KwaZulu-Natal,BCom-ACC,1,Main Campus
+100164,Jade,Hendricks,0409095082117,09-Sep-04,female,j.hendricks@uct.ac.za,0306789012,2022/03/05,Active,South Africa,Western Cape,BFA,1,Hiddingh
+STU-100165,Tumelo,Modise,0510105082118,10/10/2005,M,tmodise@student.uct.ac.za,+27 31 789 0123,05/03/2022,Active,SA,North West,BA-SOC,1,Main Campus
+100166,Lindiwe,Mahlangu,9211115082119,11/11/1992,F,lmahlangu@student.uct.ac.za,+27 32 890 1234,06/03/2022,active,SA,Mpumalanga,BSc-BOT,3,Main
+STU100167,Kyle,Andrews,9312125082120,"12/12/1993",M,kandrews@uct.ac.za,27338901235,06/03/2022,ACTIVE,South African,Western Cape,BCom-ECO,3,Main Campus
+100168,Nosipho,Tshabalala,,01/01/1994,F,ntshabalala@student.uct.ac.za,+27 34 901 2345,07/03/2022,Active,SA,Gauteng,BA-PSYCH,3,Main
+STU-100169,Themba,Sibiya,9502025082121,02/02/1995,M,tsibiya@student.uct.ac.za,+27 35 012 3456,2022/03/07,Active,SA,KwaZulu-Natal,BSc-STAT,3,Main Campus
+100170,Stephanie,Brown,9603035082122,03-Mar-96,F,s.brown@myuct.ac.za,0350123456,2022/03/08,inactive,SA,Western Cape,LLB,2,Main

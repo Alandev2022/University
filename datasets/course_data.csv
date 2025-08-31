@@ -1,0 +1,48 @@
+course_code,course_name,department,faculty,credits,semester,lecturer_id,prerequisites,course_description,nqf_level,enrollment_cap,course_fee
+FIN2024,Financial Management II,Finance,Commerce,20,1,STAFF-2045,FIN1014,"Introduction to financial principles, time value of money",6,150,15600
+ECON1004,Principles of Microeconomics,Economics,Commerce,18,1,STAFF-1023,NONE,Introduction to microeconomic theory and applications,5,200,14500
+CS2001,Data Structures and Algorithms,Computer Science,"Science",24,2,STAFF-3012,CS1001,"Advanced data structures, algorithm analysis",6,80,16400
+LAW1001,Introduction to South African Law,Law,Law,24,1,STAFF-4567,,"Introduction to the South African legal system, sources of law",5,120,17800
+STAT2030,Statistical Methods,Statistics,Science,16,1,STAFF-1078,STAT1001,Statistical inference and hypothesis testing,6,100,13200
+FIN2024,Financial Management 2,Finance,Commerce,20,1,STAFF-2045,FIN1014,"Financial principles, valuation techniques",6,150,15600.00
+BIO1002,Molecular Biology,Biological Sciences,Science,20,2,STAFF-2089,,"Cell structure, DNA, protein synthesis",5,120,15900
+ECON2007,Development Economics,Economics,Commerce,18,2,STAFF-1025,ECON1004 or ECON1005,Economic development theories & South African case studies,6,100,15200
+ENG1005,Engineering Mathematics,Mathematics,Engineering,24,1,,MAT1001,Mathematics foundations for engineering applications,5,150,16700
+AFR1001,Introduction to Afrikaans,Languages,Humanities,12,1,STAFF-3045,,Introductory Afrikaans language and literature,5,50,8900
+CS3002,Database Systems,"Computer Science",Science,24,1,STAFF-3012,CS2001,"Relational databases, SQL, database design",7,60,17500
+PSY2001,Social Psychology,Psychology,Humanities,18,2,STAFF-5023,PSY1001,Group dynamics and social influence processes,6,120,14300
+BUS1001,Business Management 101,Business Management,Commerce,18,1,STAFF-2056,,Introduction to business principles and management,5,180,14500
+,African Literature,English,Humanities,18,2,STAFF-4023,,Contemporary African literary works and analysis,6,60,12900
+PHY1002,Mechanics and Thermodynamics,Physics,Science,24,1,STAFF-6078,,"Newtonian mechanics, heat, energy",5,100,16200
+STAT2030,Statistical Methods,Statistics,"Science",16,1,STAFF-1078,STAT1001,Statistical modeling and data analysis techniques,6,100,13200
+MED2003,Anatomy,Medical Sciences,Health Sciences,36,1,STAFF-7023,BIO1002,Human anatomical structures and systems,6,80,26000
+SOC1001,Introduction to Sociology,Sociology,Humanities,18,1,STAFF-8045,,Social structures in South African context,5,150,13200
+MAT2001,Linear Algebra,Mathematics,Science,20,2,STAFF-9012,MAT1001,Vector spaces and linear transformations,6,120,15400
+ENG2002,Fluid Mechanics,Engineering,Engineering,24,1,STAFF-9020,ENG1005,Fluid statics and dynamics principles,6,80,16500
+PSY1001,Introduction to Psychology,Psychology,Humanities,18,1,STAFF-5023,,Foundational psychological theories and methods,5,200,14300
+CS1001,Introduction to Programming,Computer Science,Science,24,1,STAFF-3012,,Programming fundamentals using Python,5,120,16400
+ECO1005,Principles of Macroeconomics,Economics,Commerce,18,2,STAFF-1023,,National income analysis and economic policy,5,200,14500
+LAW2001,Constitutional Law,Law,Law,24,1,STAFF-4567,LAW1001,South African constitutional framework,6,100,17800
+BIO2001,Ecology,Biological Sciences,Science,24,1,STAFF-2089,BIO1002,Ecological principles and environmental interactions,6,90,15900
+MAT1001,Calculus I,Mathematics,Science,20,1,STAFF-9012,,Differential and integral calculus,5,200,15400
+AFR2001,Afrikaans Literature,Languages,Humanities,18,2,STAFF-3045,AFR1001,Study of important Afrikaans literary works,6,40,12900
+CHE1001,General Chemistry,Chemistry,Science,24,1,STAFF-6080,,Fundamental chemical principles and reactions,5,150,16200
+MED1001,Introduction to Medical Sciences,Medical Sciences,Health Sciences,24,1,STAFF-7023,,Foundations of human health and disease,5,120,22000
+SOC2001,South African Society,Sociology,Humanities,18,2,STAFF-8045,SOC1001,Analysis of post-apartheid social structures,6,100,13200
+ACC1001,Financial Accounting I,Accounting,Commerce,24,1,STAFF-2046,,Financial statement preparation and analysis,5,180,15600
+PHY1001,Introduction to Physics,Physics,Science,24,1,STAFF-6078,,Classical mechanics and basic physics concepts,5,120,16200
+ENG3001,Control Systems,Engineering,Engineering,24,2,STAFF-9020,ENG2002,Feedback systems and stability analysis,7,60,16800
+ZUL1001,Introduction to isiZulu,Languages,Humanities,12,1,STAFF-3046,,Introductory isiZulu language and culture,5,50,8900
+GEO1001,Introduction to Geography,Geography,Science,18,1,STAFF-6090,,Physical and human geography fundamentals,5,120,14800
+CS4001,Artificial Intelligence,Computer Science,Science,24,2,STAFF-3012,CS3002,Machine learning and AI applications,8,40,17500
+HIS1001,South African History,History,Humanities,18,1,STAFF-4024,,Pre-colonial to post-apartheid South Africa,5,150,13200
+BCOM-HON,Business Research Methods,Commerce,Commerce,30,1,STAFF-2045,,Research methodology for commerce students,8,30,18500
+LAW3001,Administrative Law,Law,Law,24,2,STAFF-4567,LAW2001,Government administrative actions and judicial review,7,80,17800
+MUS1001,Music Theory,Music,Humanities,18,1,STAFF-3047,,Fundamentals of music notation and harmony,5,40,14300
+BIO3001,Genetics,Biological Sciences,Science,24,1,STAFF-2089,BIO2001,Mendelian and molecular genetics principles,7,60,15900
+DRA1001,Introduction to Drama,Drama,Humanities,18,1,STAFF-4025,,Performance theory and theatrical production,5,60,14300
+STAT3030,Advanced Statistical Methods,Statistics,Science,24,2,STAFF-1078,STAT2030,Multivariate statistical analysis techniques,7,50,16200
+ENG4001,Engineering Design Project,Engineering,Engineering,48,0,STAFF-9020,ENG3001,Capstone engineering project,8,40,32000
+PHI1001,Introduction to Philosophy,Philosophy,Humanities,18,1,STAFF-4026,,Critical thinking and major philosophical concepts,5,120,13200
+ACC2001,Management Accounting,Accounting,Commerce,24,2,STAFF-2046,ACC1001,Cost accounting and managerial decision-making,6,150,15600
+POL1001,Introduction to Political Science,Political Science,Humanities,18,1,STAFF-8046,,Political theories and governance systems,5,180,13200

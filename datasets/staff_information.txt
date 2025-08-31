@@ -1,0 +1,40 @@
+staff_id,first_name,last_name,id_number,date_of_birth,gender,email,contact_number,department,faculty,position,employment_type,start_date,end_date,qualification,office_location
+STAFF-1023,Thomas,Moloi,7005125082080,1970-05-12,M,t.moloi@uct.ac.za,+27 82 111 2222,Economics,Commerce,Professor,Permanent,01/02/2005,,PhD Economics,Leslie Commerce Building 5.20
+STAFF-1078,Sarah,Naidoo,7506158765082,15/06/1975,F,s.naidoo@uct.ac.za,+27 83 222 3333,Statistics,Science,Senior Lecturer,Permanent,2007-06-01,,PhD Statistics,PD Hahn Building 3.45
+STAFF-2045,John,Patel,8011145082081,14-11-1980,M,j.patel@uct.ac.za,0842223333,Finance,Commerce,Associate Professor,Permanent,2010/03/01,,PhD Finance,Leslie Commerce Building 4.15
+STAFF-2089,Nompumelelo,Dube,7810125082082,12/10/1978,F,n.dube@uct.ac.za,+27 85 333 4444,Biological Sciences,Science,Professor,Permanent,01-Mar-06,,PhD Biology,Molecular Biology Building 2.10
+STAFF-3012,David,van Niekerk,7203078765083,07/03/1972,Male,d.vanniekerk@uct.ac.za,+27 86 444 5555,Computer Science,Science,Professor,Permanent,01/09/2004,,PhD Computer Science,Computer Science Building 3.25
+STAFF-3045,Amanda,Botha,8304125082084,12/04/1983,F,a.botha@uct.ac.za,+27 87 555 6666,Languages,Humanities,Lecturer,Contract,2018/01/15,2023/01/14,MA Afrikaans,Arts Building 4.56
+STAFF-4023,Siyabonga,Mchunu,7907158765085,15-Jul-79,M,s.mchunu@uct.ac.za,0886667777,English,Humanities,Associate Professor,Permanent,01-Feb-09,,PhD Literature,Arts Building 3.45
+STAFF-4567,Fatima,Ebrahim,7612018765086,01/12/1976,F,f.ebrahim@uct.ac.za,+27 89 777 8888,Law,Law,Professor,Permanent,2006-05-01,,LLD,Kramer Law Building 2.15
+STAFF-5023,Lerato,Khumalo,8209085082087,08/09/1982,Female,l.khumalo@uct.ac.za,+27 82 888 9999,Psychology,Humanities,Senior Lecturer,Permanent,15/08/2011,,PhD Psychology,PD Hahn Building 5.20
+STAFF-6078,,Fourie,8001108765088,10/01/1980,M,fourie@uct.ac.za,+27 83 999 0000,Physics,Science,Senior Lecturer,Permanent,01/07/2010,,PhD Physics,RW James Building 4.25
+STAFF-7023,Thabo,Mathebula,7508128765089,12-Aug-75,M,t.mathebula@uct.ac.za,0849990001,Medical Sciences,Health Sciences,Associate Professor,Permanent,2008/02/01,,MD PhD,Anatomy Building 3.15
+STAFF-8045,Elizabeth,Smith,8103065082090,06/03/1981,F,e.smith@uct.ac.za,+27 85 000 1111,Sociology,Humanities,Lecturer,Contract,01-Jun-15,31-May-23,PhD Sociology,Leslie Social Science Building 4.35
+STAFF-9012,Mandla,Tshabalala,7711175082091,17/11/1977,Male,m.tshabalala@uct.ac.za,+27 86 111 2222,Mathematics,Science,Professor,Permanent,01/03/2007,,PhD Mathematics,Mathematics Building 5.10
+STAFF-1024,Priya,Govender,7104168765092,16/04/1971,F,p.govender@uct.ac.za,+27 87 222 3333,Economics,Commerce,Associate Professor,Permanent,01/05/2006,,PhD Economics,Leslie Commerce Building 5.22
+STAFF-1025,Siphiwe,Nxumalo,7602078765093,07/02/1976,M,s.nxumalo@uct.ac.za,+27 88 333 4444,Economics,Commerce,Senior Lecturer,Permanent,2009-08-01,,PhD Development Economics,Leslie Commerce Building 5.24
+STAFF-1026,Catherine,Williams,8003198765094,19/03/1980,F,c.williams@uct.ac.za,0893334445,Economics,Commerce,Lecturer,Contract,2015/07/01,2023/06/30,MCom Economics,Leslie Commerce Building 5.26
+STAFF-1079,Rajesh,Kumar,7709108765095,10/09/1977,M,r.kumar@uct.ac.za,+27 90 444 5555,Statistics,Science,Lecturer,Permanent,01-Apr-10,,PhD Statistics,PD Hahn Building 3.47
+STAFF-2046,Michelle,van der Berg,7407068765096,06/07/1974,F,m.vanderberg@uct.ac.za,+27 91 555 6666,Finance,Commerce,Senior Lecturer,Permanent,2011/05/01,,PhD Finance,Leslie Commerce Building 4.17
+STAFF-2047,Andrew,Mokoena,8205118765097,11-May-82,M,a.mokoena@uct.ac.za,0925556667,Accounting,Commerce,Lecturer,Permanent,01-Jun-12,,PhD Accounting,Leslie Commerce Building 4.30
+STAFF-2056,Grace,Ngubane,7901248765098,24/01/1979,Female,g.ngubane@uct.ac.za,+27 93 666 7777,Business Management,Commerce,Associate Professor,Permanent,2010/02/01,,PhD Business Management,Leslie Commerce Building 4.40
+STAFF-2057,Richard,Thompson,7612058765099,05/12/1976,M,r.thompson@uct.ac.za,+27 94 777 8888,Business Management,Commerce,Professor,Permanent,01/03/2008,,PhD Management,Leslie Commerce Building 4.42
+STAFF-2090,Lesego,Modise,8108308765100,30/08/1981,F,l.modise@uct.ac.za,+27 95 888 9999,Biological Sciences,Science,Senior Lecturer,Permanent,2012-09-01,,PhD Molecular Biology,Molecular Biology Building 2.12
+STAFF-3013,Natasha,Pillay,8304078765101,07/04/1983,F,n.pillay@uct.ac.za,0968889990,Computer Science,Science,Senior Lecturer,Permanent,2013/03/01,,PhD Computer Science,Computer Science Building 3.27
+STAFF-3046,Sibusiso,Ntuli,7705198765102,19/05/1977,Male,s.ntuli@uct.ac.za,+27 97 999 0000,Languages,Humanities,Senior Lecturer,Permanent,01/08/2010,,PhD African Languages,Arts Building 4.58
+STAFF-3047,James,van Wyk,7810168765103,16-Oct-78,M,j.vanwyk@uct.ac.za,+27 98 000 1111,Music,Humanities,Lecturer,Contract,2017/01/15,2023/01/14,MMus,South African College of Music 2.15
+STAFF-4024,Busisiwe,Dlamini,8209058765104,05/09/1982,F,b.dlamini@uct.ac.za,+27 99 111 2222,History,Humanities,Lecturer,Permanent,01-Feb-15,,PhD History,Arts Building 3.50
+STAFF-4025,Michael,Johnson,7601118765105,11/01/1976,M,m.johnson@uct.ac.za,0991112223,Drama,Humanities,Associate Professor,Permanent,2009/04/01,,PhD Drama,Arts Building 2.20
+STAFF-4026,Amina,Ali,8107208765106,20/07/1981,F,a.ali@uct.ac.za,+27 10 222 3333,Philosophy,Humanities,Senior Lecturer,Permanent,2014/02/01,,PhD Philosophy,Arts Building 3.55
+STAFF-4568,Benjamin,Coetzee,7708018765107,01-Aug-77,M,b.coetzee@uct.ac.za,+27 11 333 4444,Law,Law,Associate Professor,Permanent,01-Jul-08,,LLM,Kramer Law Building 2.17
+STAFF-5024,Nomvula,Zwane,8301028765108,02/01/1983,Female,n.zwane@uct.ac.za,+27 12 444 5555,Psychology,Humanities,Lecturer,Permanent,2016/01/01,,PhD Psychology,PD Hahn Building 5.22
+STAFF-6079,Daniel,Ferreira,7904238765109,23/04/1979,M,d.ferreira@uct.ac.za,+27 13 555 6666,Physics,Science,Lecturer,Permanent,01/08/2011,,PhD Physics,RW James Building 4.27
+STAFF-6080,Thandeka,Mbatha,8002128765110,12/02/1980,F,t.mbatha@uct.ac.za,0135556667,Chemistry,Science,Associate Professor,Permanent,2010/09/01,,PhD Chemistry,PD Hahn Building 4.15
+STAFF-6081,Johan,Pretorius,7605268765111,26-May-76,M,j.pretorius@uct.ac.za,+27 14 666 7777,Chemistry,Science,Professor,Permanent,01-Apr-07,,PhD Chemistry,PD Hahn Building 4.20
+STAFF-6090,Thembi,Xaba,8103108765112,10/03/1981,F,t.xaba@uct.ac.za,+27 15 777 8888,Geography,Science,Senior Lecturer,Permanent,2012/02/01,,PhD Geography,Environmental & Geographical Science Building 3.10
+STAFF-6091,Robert,Wilson,7709148765113,14/09/1977,Male,r.wilson@uct.ac.za,+27 16 888 9999,Geography,Science,Lecturer,Contract,2018/07/01,2023/06/30,PhD Geography,Environmental & Geographical Science Building 3.12
+STAFF-7024,Zandile,Ndlovu,8406158765114,15/06/1984,F,z.ndlovu@uct.ac.za,+27 17 999 0000,Medical Sciences,Health Sciences,Senior Lecturer,Permanent,2013/05/01,,MD PhD,Anatomy Building 3.17
+STAFF-8046,Thomas,Brown,7703058765115,05-Mar-77,M,t.brown@uct.ac.za,0179990001,Political Science,Humanities,Associate Professor,Permanent,2010/03/01,,PhD Political Science,Leslie Social Science Building 4.40
+STAFF-9013,Fatuma,Hassan,8201178765116,17/01/1982,F,f.hassan@uct.ac.za,+27 18 000 1111,Mathematics,Science,Senior Lecturer,Permanent,01-May-11,,PhD Mathematics,Mathematics Building 5.12
+STAFF-9020,Vincent,Kganyago,7608308765117,30/08/1976,M,v.kganyago@uct.ac.za,+27 19 111 2222,Engineering,Engineering,Professor,Permanent,2007/06/01,,PhD Engineering,Menzies Building 2.10
